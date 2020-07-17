@@ -1,5 +1,6 @@
-![](https://img.shields.io/badge/Microverse-blueviolet) ![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/flat/yes.svg)
+![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/flat/yes.svg)
 
+![](https://img.shields.io/badge/-Microverse%20project2s-blueviolet)
 # Positioning and Floating Elements project: New York Times article page
 
 > This is a New York Times article page clone using HTML and CSS3.

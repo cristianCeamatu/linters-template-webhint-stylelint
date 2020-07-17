@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Microverse-blueviolet) ![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/flat/yes.svg)
 
 # Positioning and Floating Elements project: New York Times article page
 

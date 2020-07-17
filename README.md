@@ -1,4 +1,4 @@
-![Hireable](https://img.shields.io/badge/hireable-yes-success)
+![Hireable](https://img.shields.io/badge/Hireable-yes-success)
 
 ![](https://img.shields.io/badge/-Microverse%20projects-blueviolet)
 # Positioning and Floating Elements project: New York Times article page

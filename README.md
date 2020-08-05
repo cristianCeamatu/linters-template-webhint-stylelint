@@ -49,12 +49,6 @@ Install and run a live server plugin on you IDE/Text editor and run it from the 
 - Twitter: [@twitterhandle](https://twitter.com/CeamatuV)
 - Linkedin: [linkedin](https://www.linkedin.com/in/ceamatu-cristian-viorel-7a5469136/)
 
-👤 **Diego Lira**
-
-- Github: [@githubhandle](https://github.com/lirad)
-- Twitter: [@twitterhandle](https://twitter.com/lirad)
-- Linkedin: [linkedin](https://www.linkedin.com/in/diegoalira/)
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
